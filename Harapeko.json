@@ -205,7 +205,7 @@
     },
     "10": {
       "title": "Chapter 10",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1747572744",
       "groups": {
         "Keshigomu Scans": [
@@ -354,6 +354,22 @@
           "https://files.catbox.moe/ifhx0d.png",
           "https://files.catbox.moe/l796oo.png",
           "https://files.catbox.moe/buu0yb.png"
+        ]
+      }
+    },
+    "10.5": {
+      "title": "10.5",
+      "volume": "1",
+      "last_updated": "1753199578",
+      "groups": {
+        "Keshigomu Scans": [
+          "https://files.catbox.moe/7io3kr.png",
+          "https://files.catbox.moe/cwqjlr.png",
+          "https://files.catbox.moe/1tnpfb.png",
+          "https://files.catbox.moe/hp3swc.png",
+          "https://files.catbox.moe/zy3ck5.png",
+          "https://files.catbox.moe/cthsri.png",
+          "https://files.catbox.moe/88opbm.png"
         ]
       }
     }
