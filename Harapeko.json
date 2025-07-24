@@ -358,7 +358,7 @@
       }
     },
     "10.5": {
-      "title": "10.5",
+      "title": "Omake",
       "volume": "1",
       "last_updated": "1753199578",
       "groups": {
@@ -370,6 +370,31 @@
           "https://files.catbox.moe/zy3ck5.png",
           "https://files.catbox.moe/cthsri.png",
           "https://files.catbox.moe/88opbm.png"
+        ]
+      }
+    },
+    "10.25": {
+      "title": "Volume 1 Extras",
+      "volume": "1",
+      "last_updated": "1753330672",
+      "groups": {
+        "Keshigomu Scans": [
+          "https://files.catbox.moe/cbok7l.jpg",
+          "https://files.catbox.moe/36s5up.jpg",
+          "https://files.catbox.moe/njnzso.jpg",
+          "https://files.catbox.moe/dtnjse.png",
+          "https://files.catbox.moe/24a777.png",
+          "https://files.catbox.moe/6lbj7w.png",
+          "https://files.catbox.moe/y5pn1v.png",
+          "https://files.catbox.moe/hpcq3j.png",
+          "https://files.catbox.moe/y34o96.png",
+          "https://files.catbox.moe/wjj8q8.png",
+          "https://files.catbox.moe/omlhyv.png",
+          "https://files.catbox.moe/0eicu0.png",
+          "https://files.catbox.moe/pubap1.png",
+          "https://files.catbox.moe/dz3rfg.png",
+          "https://files.catbox.moe/oaae31.png",
+          "https://files.catbox.moe/t1yyoc.png"
         ]
       }
     }
