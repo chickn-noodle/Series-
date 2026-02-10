@@ -447,7 +447,7 @@
     },
     "21": {
       "title": "Chapter 21",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1765240169",
       "groups": {
         "Keshigomu Scans": [
@@ -470,7 +470,7 @@
     },
     "22": {
       "title": "Chapter 22",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1768113589",
       "groups": {
         "Keshigomu Scans": [
@@ -493,7 +493,7 @@
     },
     "23": {
       "title": "Chapter 23",
-      "volume": "",
+      "volume": "3",
       "last_updated": "1770684415",
       "groups": {
         "Keshigomu Scans": [
@@ -566,6 +566,52 @@
       "groups": {
         "Keshigomu Scans": [
           "https://files.catbox.moe/899jo8.png"
+        ]
+      }
+    },
+    "20.25": {
+      "title": "Volume 2 Extras",
+      "volume": "2",
+      "last_updated": "1770684562",
+      "groups": {
+        "Keshigomu Scans": [
+          "https://files.catbox.moe/7v5iqk.png",
+          "https://files.catbox.moe/ewb5c8.png",
+          "https://files.catbox.moe/hnke4d.png",
+          "https://files.catbox.moe/09i8xd.png",
+          "https://files.catbox.moe/2euu7w.png",
+          "https://files.catbox.moe/d2wly9.png",
+          "https://files.catbox.moe/arwl7v.png",
+          "https://files.catbox.moe/ofys9g.png",
+          "https://files.catbox.moe/x2a4s7.png",
+          "https://files.catbox.moe/7iij20.png",
+          "https://files.catbox.moe/fpzzcc.png",
+          "https://files.catbox.moe/hgojo5.png",
+          "https://files.catbox.moe/m5bece.png",
+          "https://files.catbox.moe/o3rpdb.png",
+          "https://files.catbox.moe/szw3og.png",
+          "https://files.catbox.moe/l56cna.png",
+          "https://files.catbox.moe/ov41xl.png",
+          "https://files.catbox.moe/vehl3m.png",
+          "https://files.catbox.moe/5bvv96.png",
+          "https://files.catbox.moe/o9lznk.png",
+          "https://files.catbox.moe/fktqdx.png",
+          "https://files.catbox.moe/yeevjh.png"
+        ]
+      }
+    },
+    "20.5": {
+      "title": "Omake",
+      "volume": "2",
+      "last_updated": "1770684638",
+      "groups": {
+        "Keshigomu Scans": [
+          "https://files.catbox.moe/wk3qt9.png",
+          "https://files.catbox.moe/v0r255.png",
+          "https://files.catbox.moe/dfdfbe.png",
+          "https://files.catbox.moe/0obku7.png",
+          "https://files.catbox.moe/pbfqan.png",
+          "https://files.catbox.moe/gcclcu.png"
         ]
       }
     }
