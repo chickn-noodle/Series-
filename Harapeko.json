@@ -515,12 +515,10 @@
     },
     "24": {
       "title": "Chapter 24",
-      "volume": "3",
-      "last_updated": "1773416096",
+      "volume": "2",
+      "last_updated": "1773416636",
       "groups": {
-        "Keshigomu Scans": [
-          "/proxy/api/imgur/chapter/PKZT7F6"
-        ]
+        "Keshigomu Scans": "/proxy/api/imgur/chapter/harapeko-chapter-24-PKZT7F6"
       }
     },
     "10.5": {
@@ -623,14 +621,6 @@
           "https://files.catbox.moe/pbfqan.png",
           "https://files.catbox.moe/gcclcu.png"
         ]
-      }
-    },
-    "24": {
-      "title": "Chapter 24",
-      "volume": "2",
-      "last_updated": "1773416636",
-      "groups": {
-        "Keshigomu Scans": "/proxy/api/imgur/chapter/PKZT7F6/"
       }
     }
   }
