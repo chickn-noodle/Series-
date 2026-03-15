@@ -518,7 +518,21 @@
       "volume": "2",
       "last_updated": "1773416636",
       "groups": {
-        "Keshigomu Scans": "/proxy/api/imgur/chapter/harapeko-chapter-24-PKZT7F6"
+        "Keshigomu Scans": [
+          "https://files.catbox.moe/6n6ofo.png",
+          "https://files.catbox.moe/ce5q9s.png",
+          "https://files.catbox.moe/rto2tc.png",
+          "https://files.catbox.moe/zheplu.png",
+          "https://files.catbox.moe/83t2d5.png",
+          "https://files.catbox.moe/u15vsh.png",
+          "https://files.catbox.moe/30vurf.png",
+          "https://files.catbox.moe/jepo3i.png",
+          "https://files.catbox.moe/xbrnwj.png",
+          "https://files.catbox.moe/t7e6ny.png",
+          "https://files.catbox.moe/um5yf9.png",
+          "https://files.catbox.moe/vukm8b.png",
+          "https://files.catbox.moe/y49vt8.png"
+        ]
       }
     },
     "10.5": {
